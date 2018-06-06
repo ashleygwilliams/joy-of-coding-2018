@@ -1,0 +1,23 @@
+{
+  "name": "seattlejs-2017",
+  "version": "1.0.0",
+  "description": "my presentation for the 2017 seattle js conf",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleygwilliams/seattlejs-2017.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/seattlejs-2017/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/seattlejs-2017#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
