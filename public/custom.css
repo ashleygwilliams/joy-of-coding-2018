@@ -157,6 +157,13 @@ iframe {
   left: 0;
 }
 
+.yoshi {
+  width: 300px;
+  position: fixed;
+  bottom: -10px;
+  right: -10px;
+}
+
 .nodejs img {
   background-color: rgba(255,255,255, 0.8);
   padding: 20px 20px;
@@ -267,4 +274,9 @@ blockquote::before {
 .remark-slide-content {
   background-color: #2A2947;
   position: relative;
+}
+
+.bumpup {
+  position: relative;
+  top: -80px;
 }
