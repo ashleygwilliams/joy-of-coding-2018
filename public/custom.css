@@ -69,6 +69,11 @@ body {
   text-shadow: 3px 1px 0px rgba(11,41,60, 0.6);
 }
 
+.dark-peach {
+  background-color: rgba(200,95,70,0.8);
+  padding: 10px 20px;
+}
+
 .hegel {
   position: absolute;
   top: 300px;
